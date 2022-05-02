@@ -1,0 +1,21 @@
+button {
+  font-size: 45px;
+  border: solid 20px #2f4f4f;
+  border-radius: 10px;
+  height: 100px;
+  width: 33%;
+  background-color: #d3d3d3;
+}
+
+.lastBtn {
+  width: 100%;
+  color: #ff1493;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 5px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: aliceblue;
+  color: aqua;
+}
